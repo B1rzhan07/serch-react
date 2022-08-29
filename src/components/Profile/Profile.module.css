@@ -1,0 +1,21 @@
+.profile {
+    margin-top: 10px;
+    display: flex;
+}
+
+.img {
+    flex-basis: 10%;
+    size: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 15%;
+    margin-left: 10px;
+}
+
+.table {
+    flex-basis: 70%;
+}
+
+a:active {
+    color: black;
+}

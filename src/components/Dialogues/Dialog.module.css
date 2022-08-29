@@ -1,0 +1,31 @@
+.btn {
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.btn:active {
+    color: yellowgreen;
+}
+
+.text {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 250px 600px 100px;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+.button {
+    box-sizing: border-box;
+    margin-left: 100px;
+    background-color: transparent;
+    font-family: inherit;
+}
+
+.img {
+    height: auto;
+    width: 10%;
+}
